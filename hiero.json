@@ -1,0 +1,198 @@
+{
+  "A": {
+    "name": "Man and his Occupations",
+    "codepoints": [
+      77824,
+      77903
+    ]
+  },
+  "B": {
+    "name": "Woman and her Occupations",
+    "codepoints": [
+      77904,
+      77913
+    ]
+  },
+  "C": {
+    "name": "Anthropomorphic Deities",
+    "codepoints": [
+      77914,
+      77941
+    ]
+  },
+  "D": {
+    "name": "Parts Of The Human Body",
+    "codepoints": [
+      77942,
+      78033
+    ]
+  },
+  "E": {
+    "name": "Mammals",
+    "codepoints": [
+      78034,
+      78077
+    ]
+  },
+  "F": {
+    "name": "Parts Of Mammals",
+    "codepoints": [
+      78078,
+      78142
+    ]
+  },
+  "G": {
+    "name": "Birds",
+    "codepoints": [
+      78143,
+      78206
+    ]
+  },
+  "H": {
+    "name": "Parts of Birds",
+    "codepoints": [
+      78207,
+      78215
+    ]
+  },
+  "I": {
+    "name": "Amphibious Animals, Reptiles, etc.",
+    "codepoints": [
+      78216,
+      78234
+    ]
+  },
+  "K": {
+    "name": "Fish and Parts of Fish",
+    "codepoints": [
+      78235,
+      78242
+    ]
+  },
+  "L": {
+    "name": "Invertebrates and Lesser Animals",
+    "codepoints": [
+      78243,
+      78252
+    ]
+  },
+  "M": {
+    "name": "Trees and Plants",
+    "codepoints": [
+      78253,
+      78318
+    ]
+  },
+  "N": {
+    "name": "Sky, Earth, Water",
+    "codepoints": [
+      78319,
+      78367
+    ]
+  },
+  "NL": {
+    "name": "Lower Nile",
+    "codepoints": [
+      78368,
+      78389
+    ]
+  },
+  "NU": {
+    "name": "Upper Nile",
+    "codepoints": [
+      78390,
+      78415
+    ]
+  },
+  "O": {
+    "name": "Buildings, Parts of Buildings, etc.",
+    "codepoints": [
+      78416,
+      78490
+    ]
+  },
+  "P": {
+    "name": "Ships and Parts Of Ships",
+    "codepoints": [
+      78491,
+      78503
+    ]
+  },
+  "Q": {
+    "name": "Domestic and Funerary Furniture",
+    "codepoints": [
+      78504,
+      78510
+    ]
+  },
+  "R": {
+    "name": "Temple Furniture and Sacred Emblems",
+    "codepoints": [
+      78511,
+      78544
+    ]
+  },
+  "S": {
+    "name": "Crowns, Dress, Staves, etc.",
+    "codepoints": [
+      78545,
+      78598
+    ]
+  },
+  "T": {
+    "name": "Warfare, Hunting, Butchery",
+    "codepoints": [
+      78599,
+      78642
+    ]
+  },
+  "U": {
+    "name": "Agriculture, Crafts, and Professions",
+    "codepoints": [
+      78643,
+      78689
+    ]
+  },
+  "V": {
+    "name": "Rope, fibre, baskets, bags, etc.",
+    "codepoints": [
+      78690,
+      78766
+    ]
+  },
+  "W": {
+    "name": "Vessels of stone and earthenware",
+    "codepoints": [
+      78767,
+      78798
+    ]
+  },
+  "X": {
+    "name": "Loaves and cakes",
+    "codepoints": [
+      78799,
+      78810
+    ]
+  },
+  "Y": {
+    "name": "Writings, games, music",
+    "codepoints": [
+      78811,
+      78819
+    ]
+  },
+  "Z": {
+    "name": "Strokes, signs derived from Hieratic, geometrical features",
+    "codepoints": [
+      78820,
+      78860
+    ]
+  },
+  "AA": {
+    "name": "Unclassified signs",
+    "codepoints": [
+      78861,
+      78894
+    ]
+  }
+}
